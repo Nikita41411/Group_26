@@ -1,0 +1,9 @@
+{
+	"name": "Olga",
+	"status": "Padawan",
+	"devise": {
+		"RAM": 8,
+		"Model": "HP",
+		"Price": "1000 $"
+	}
+}

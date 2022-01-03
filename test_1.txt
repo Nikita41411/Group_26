@@ -8,3 +8,4 @@
 8) mv "file_name" "путь куда(dir_name/dir_name/dir_name/)" (переместить)
 9) cat "file_name" (содержимое файла)
 10) ls -la (список файлов)
+11)

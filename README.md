@@ -1,1 +1,1 @@
-# Group_26
+# Group_26_hw_terminal_linux

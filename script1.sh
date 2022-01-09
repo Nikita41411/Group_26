@@ -1,4 +1,5 @@
 # /bin/bash
+mkdir f_1
 cd f_1
 mkdir f_1 f_2 F_3
 cd f_1
